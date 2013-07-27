@@ -1,8 +1,8 @@
 <resources>
     <string-array name="frequency">
-        <item>Every three minutes</item>
-        <item>Every quarter of an hour</item>
-        <item>Every half an hour</item>
+        <item>三分钟</item>
+        <item>十五分钟</item>
+        <item>半小时</item>
     </string-array>
     <string-array name="frequency_value">
         <item>1</item>
@@ -10,9 +10,9 @@
         <item>3</item>
     </string-array>
     <string-array name="list_avatar_mode">
-        <item>Normal</item>
-        <item>High-resolution</item>
-        <item>Auto</item>
+        <item>普通</item>
+        <item>高清</item>
+        <item>自动</item>
     </string-array>
     <string-array name="list_avatar_mode_value">
         <item>1</item>
@@ -20,9 +20,9 @@
         <item>3</item>
     </string-array>
     <string-array name="list_pic_mode">
-        <item>Thumbnail</item>
-        <item>High-resolution</item>
-        <item>Auto</item>
+        <item>小图</item>
+        <item>高清</item>
+        <item>自动</item>
     </string-array>
     <string-array name="list_pic_mode_value">
         <item>1</item>
@@ -30,24 +30,24 @@
         <item>3</item>
     </string-array>
     <string-array name="list_high_pic_mode">
-        <item>Clip to fit height</item>
-        <item>Resize to fit height</item>
+        <item>固定高度裁剪</item>
+        <item>固定高度完整</item>
     </string-array>
     <string-array name="list_high_pic_mode_value">
         <item>1</item>
         <item>2</item>
     </string-array>
     <string-array name="upload_pic_quality" formatted="false">
-        <item>No compression</item>
-        <item>Compress rate 50%</item>
-        <item>Compress rate 25%</item>
-        <item>Auto</item>
+        <item>高清不压缩</item>
+        <item>压缩到50%</item>
+        <item>压缩到25%</item>
+        <item>自动</item>
     </string-array>
     <string-array name="upload_pic_quality_hack_bug" formatted="false">
-        <item>No compression</item>
-        <item>Compress rate 50%%</item>
-        <item>Compress rate 25%%</item>
-        <item>Auto</item>
+        <item>高清不压缩</item>
+        <item>压缩到50%%</item>
+        <item>压缩到25%%</item>
+        <item>自动</item>
     </string-array>
     <string-array name="upload_pic_quality_value">
         <item>1</item>
@@ -56,9 +56,9 @@
         <item>4</item>
     </string-array>
     <string-array name="theme">
-        <item>Weiciyuan</item>
-        <!--<item>Black and white</item>-->
-        <item>Night mode</item>
+        <item>四次元</item>
+        <!--<item>黑白</item>-->
+        <item>夜间纯黑</item>
         <!--<item>白色</item>-->
     </string-array>
     <string-array name="theme_value">
@@ -68,10 +68,10 @@
         <!--<item>4</item>-->
     </string-array>
     <string-array name="font">
-        <item>Small</item>
+        <item>小</item>
         <!--<item>较小</item>-->
-        <item>Medium</item>
-        <item>Large</item>
+        <item>中等</item>
+        <item>大</item>
         <!--<item>很大</item>-->
     </string-array>
     <string-array name="font_value">
@@ -83,17 +83,17 @@
         <!--<item>20</item>-->
     </string-array>
     <string-array name="notification_style">
-        <item>One per notification</item>
-        <item>Latest only</item>
+        <item>一行一条</item>
+        <item>最新的一条</item>
     </string-array>
     <string-array name="notification_style_value">
         <item>1</item>
         <item>2</item>
     </string-array>
     <string-array name="comment_repost_list_avatar_mode">
-        <item>On</item>
-        <item>Off</item>
-        <item>Auto</item>
+        <item>打开</item>
+        <item>关闭</item>
+        <item>自动</item>
     </string-array>
     <string-array name="comment_repost_list_avatar_value">
         <item>1</item>
@@ -101,9 +101,9 @@
         <item>3</item>
     </string-array>
     <string-array name="msg_count_title">
-        <item>25</item>
-        <item>50</item>
-        <item>Auto</item>
+        <item>25条</item>
+        <item>50条</item>
+        <item>自动</item>
     </string-array>
     <string-array name="msg_count_title_value">
         <item>1</item>
@@ -111,8 +111,8 @@
         <item>3</item>
     </string-array>
     <string-array name="read_style_mode">
-        <item>Scroll to latest (Sina Weibo)</item>
-        <item>Preserve Location(Twitter)</item>
+        <item>滚动到第一条（新浪微博）</item>
+        <item>保留阅读位置（Twitter）</item>
     </string-array>
     <string-array name="read_style_mode_value">
         <item>1</item>
